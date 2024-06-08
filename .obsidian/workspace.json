@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e4e97aed7549eb87",
+        "id": "46217f720d7e0c62",
         "type": "tabs",
         "children": [
           {
-            "id": "b9072065a7e27f07",
+            "id": "a6c6084c4f330a4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 JavaScript/正则表达式.md",
+                "file": "01 HTML+CSS/包含块.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "0bbb972a0c689dab",
@@ -86,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 JavaScript/正则表达式.md"
+                "file": "01 HTML+CSS/包含块.md"
               }
             }
           },
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 JavaScript/正则表达式.md",
+                "file": "01 HTML+CSS/包含块.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 JavaScript/正则表达式.md",
+                "file": "01 HTML+CSS/包含块.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 JavaScript/正则表达式.md",
+                "file": "01 HTML+CSS/包含块.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -181,8 +180,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9072065a7e27f07",
+  "active": "40b23ce704ccead4",
   "lastOpenFiles": [
+    "01 HTML+CSS/其他知识点.md",
+    "01 HTML+CSS/包含块.md",
+    "03 JavaScript/正则表达式.md",
+    "HTML+CSS案例/表单进阶.md",
+    "03 JavaScript/练习题/正则表达式表单验证/正则表达式表单验证.md",
+    "03 JavaScript/练习题/正则表达式文章段落匹配/正则表达式文章段落匹配.md",
+    "03 JavaScript/练习题/JavaScript练习题汇总.md",
+    "JS案例/正则表达式表单验证/css/index.css",
+    "JS案例/正则表达式表单验证/js/index.js",
+    "JS案例/正则表达式表单验证/css",
+    "JS案例/正则表达式表单验证/js",
+    "JS案例/正则表达式表单验证/index.html",
+    "JS案例/正则表达式表单验证",
+    "HTML+CSS案例/正则表达式表单验证/js/index.js",
+    "HTML+CSS案例/正则表达式表单验证/css/index.css",
+    "HTML+CSS案例/正则表达式表单验证/js",
+    "HTML+CSS案例/正则表达式表单验证/index.html",
+    "JS案例/歌词滚动效果.md",
+    "JS案例/购物车效果!.md",
+    "面试题.md",
     "03 JavaScript/标准库.md",
     "03 JavaScript/技巧.md",
     "未命名.md",
@@ -190,34 +209,15 @@
     "浏览器/浏览器渲染原理.md",
     "03 JavaScript/异常.md",
     "03 JavaScript/课件.md",
-    "面试题.md",
     "浏览器/事件循环.md",
     "浏览器/浏览器是如何工作的.md",
     "浏览器/课件.md",
-    "浏览器/浏览器是如何渲染页面的.pdf",
     "03 JavaScript/原型链.md",
     "03 JavaScript/继承.md",
     "03 JavaScript/this.md",
     "03 JavaScript/构造函数.md",
     "03 JavaScript/原型.md",
     "03 JavaScript/全局对象.md",
-    "03 JavaScript/数据的作用域.md",
-    "03 JavaScript/数据的表达.md",
-    "03 JavaScript/数据的处理流程.md",
-    "03 JavaScript/数据的存储和传递.md",
-    "03 JavaScript/流程的切割.md",
-    "03 JavaScript/属性描述符.md",
-    "03 JavaScript/数据的运算.md",
-    "HTML+CSS案例/表单进阶.md",
-    "02 CSS/伪类选择器.md",
-    "02 CSS/属性值计算过程简介.pdf",
-    "Vue",
-    "03 JavaScript",
-    "JS案例",
-    "HTML+CSS案例",
-    "浏览器",
-    "02 CSS",
-    "01 HTML",
     "Pasted image 20240511095906.png",
     "Pasted image 20240511102538.png"
   ]
