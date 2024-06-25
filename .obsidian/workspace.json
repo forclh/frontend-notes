@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "46217f720d7e0c62",
+        "id": "c42d64e945224b42",
         "type": "tabs",
         "children": [
           {
-            "id": "a6c6084c4f330a4e",
+            "id": "6f6acc19f6450602",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 HTML+CSS/包含块.md",
+                "file": "A Survey of Large Language Models for Graphs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 HTML+CSS/包含块.md"
+                "file": "A Survey of Large Language Models for Graphs.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 HTML+CSS/包含块.md",
+                "file": "A Survey of Large Language Models for Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 HTML+CSS/包含块.md",
+                "file": "A Survey of Large Language Models for Graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01 HTML+CSS/包含块.md",
+                "file": "A Survey of Large Language Models for Graphs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,10 +180,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40b23ce704ccead4",
+  "active": "6f6acc19f6450602",
   "lastOpenFiles": [
-    "01 HTML+CSS/其他知识点.md",
+    "A Survey of Large Language Models for Graphs.md",
     "01 HTML+CSS/包含块.md",
+    "01 HTML+CSS/其他知识点.md",
     "03 JavaScript/正则表达式.md",
     "HTML+CSS案例/表单进阶.md",
     "03 JavaScript/练习题/正则表达式表单验证/正则表达式表单验证.md",
@@ -217,7 +218,6 @@
     "03 JavaScript/this.md",
     "03 JavaScript/构造函数.md",
     "03 JavaScript/原型.md",
-    "03 JavaScript/全局对象.md",
     "Pasted image 20240511095906.png",
     "Pasted image 20240511102538.png"
   ]
