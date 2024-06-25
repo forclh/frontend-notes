@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000;
+  color: #666;
+  /* 对行盒子元素（文字...）实现居中，可以继承 */
+  text-align: center;
+}
+
+audio {
+  width: 450px;
+  margin: 30px 0;
+}
+
+.container {
+  height: 420px;
+  /* 内容溢出隐藏 */
+  overflow: hidden;
+}
+
+.container ul {
+  /* css数值类属性改变时增加过度 */
+  transition: 0.2s;
+  /* 去除列表的点 */
+  list-style: none;
+}
+
+.container li {
+  /* 歌词居中 */
+  height: 30px;
+  line-height: 30px;
+  /* 字体缩放效果过度（如果放在下面的选择器中，则退出时会失效） */
+  transition: 0.2s;
+}
+
+.container li.active {
+  color: #fff;
+  /* font-size属性会影响几何信息导致reflow */
+  /* font-size: 3em; */
+  /* 使用transform避免reflow */
+  transform: scale(1.5);
+}
+
