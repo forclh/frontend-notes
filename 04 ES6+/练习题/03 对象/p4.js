@@ -6,3 +6,26 @@ const user = {
   age: 17,
   sex: 'female',
 };
+
+
+
+Object.entries(user).forEach(function ([key, value]) {
+  Object.defineProperty(user, key, {
+    get() {
+      console.log(`正在读取${key}属性，属性值为${value}`)
+      return value;
+    },
+    set(val) {
+      console.log(`正在设置${key}属性，新的值为${val}`)
+      value = val;
+    }
+  })
+})
+
+user.name;
+user.name = 'AK';
+user.name;
+
+user.age;
+user.age = 20;
+user.age;
