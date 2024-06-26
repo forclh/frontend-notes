@@ -482,33 +482,114 @@ const students = [
 ];
 
 // 遍历输出学生的姓名
+// students.forEach(function (item) {
+//   console.log(item.name);
+// })
 
 // 得到所有女生
+// const result = students.filter(function (item) {
+//   return item.sex === '女';
+// });
+// console.log(result);
 
 // 得到所有年龄在25岁以下的女生
+// const result = students.filter(function (item) {
+//   return item.age < 25 && item.sex === '女';
+// });
+// console.log(result);
 
-// 得到所有姓陈的学生
+// 得到所有姓冯的学生
+// const result = students.filter(function (item) {
+//   return item.name.startsWith('冯');
+// });
+// console.log(result);
 
 // 得到所有电话号码以1结尾的学生
+// const result = students.filter(function (item) {
+//   return item.tel.endsWith('1');
+// });
+// console.log(result);
 
 // 得到所有学生姓名组成的数组
+// const result = students.map(function (stu) {
+//   return stu.name;
+// });
+// console.log(result);
 
 // 得到所有学生姓名组成的字符串，以逗号分割
+// const result = (students.map(function (stu) {
+//   return stu.name;
+// })).join(',');
+// console.log(result);
 
 // 把所有学生姓名以p元素包起来，形成一个html片段
+// const result = (students.map(function (stu) {
+//   return `<p>${stu.name}</p>`;
+// })).join('');
+// console.log(result);
+
 
 // 得到所有女生的姓名数组
+// const result = students.filter(function (stu) {
+//   return stu.sex === '女';
+// }).map(function (stu) {
+//   return stu.name;
+// });
+// console.log(result);
 
 // 得到所有女生的姓名和电话号码 [ {name:'monica', tel:'18122223333'} ]
+// const result = students.filter(function (stu) {
+//   return stu.sex === '女';
+// }).map(function (stu) {
+//   return {
+//     name: stu.name,
+//     tel: stu.tel
+//   };
+// });
+// console.log(result);
 
 // 得到所有学生的年龄的总和
+// const result = students.reduce(function (sum, stu) {
+//   return sum + stu.age;
+// }, 0);
+// console.log(result);
 
 // 得到所有学生的平均年龄
+// const result = students.reduce(function (sum, stu) {
+//   return sum + stu.age;
+// }, 0) / students.length;
+// console.log(result);
 
 // 得到一个对象： {name:['张三', '李四', ...], age: [17, 25, ...]}
+// const obj = {
+//   name: students.map(function (stu) { return stu.name }),
+//   age: students.map(function (stu) { return stu.age }),
+// }
+// console.log(obj);
+
+// const result = students.reduce(function (a, b) {
+//   a.name.push(b.name);
+//   a.age.push(b.age);
+//   return a;
+// }, { name: [], age: [] })
+// console.log(result);
 
 // 找到id为796997的学生对象
+// const result = students.find(function (stu) {
+//   return stu.id = '796997';
+// });
+// console.log(result);
 
 // 是否包含年龄大于28岁的男生
+// const result = students.some(function (stu) {
+//   return stu.sex === '男' && stu.age > 28;
+// });
+// console.log(result);
 
 // 是否所有的女生年龄都在28岁以内
+// const result = students.filter(function (stu) {
+//   return stu.sex === '女'
+// }).every(function (stu) {
+//   return stu.age <= 28;
+// });
+// console.log(result);

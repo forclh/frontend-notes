@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "04 ES6+/ES语言提升.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -192,7 +192,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "40b23ce704ccead4",
+  "active": "b00ae8c0e591467a",
   "lastOpenFiles": [
     "04 ES6+/练习题/01 零碎的改动/p3.html",
     "04 ES6+/练习题/01 零碎的改动/p2.html",
