@@ -484,9 +484,15 @@ const students = [
 // 使用箭头函数完成以下功能：
 
 // 得到所有电话号码以1结尾的学生
+// const result = students.filter(stu => stu.tel.endsWith('1'));
 
 // 得到所有学生姓名组成的数组
+// const result = students.map(stu => stu.name);
 
 // 得到所有女生的姓名和电话号码 [ {name:'monica', tel:'18122223333'} ]
+// const result = students.filter(stu => stu.sex === '女').map(stu => ({ name: stu.name, tel: stu.tel }));
 
 // 将每个学生变为一个 li 元素字符串，元素内容为学生姓名，拼接所有元素，形成一个长字符串 <li>张三</li><li>李四</li>...
+const result = students.map(stu => `<li>${stu.name}</li>`).join('');
+
+console.log(result);

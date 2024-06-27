@@ -1,4 +1,22 @@
 // 根据下面的调用示例，完成函数 getDatas
+// const getDatas = (options = {}) => {
+//   const defaultOptions = {
+//     page: 1,
+//     limit: 10,
+//     keyword: ''
+//   }
+
+//   const { page, limit, keyword } = {
+//     ...defaultOptions,
+//     ...options
+//   }
+//   console.log(`获取第${page}页的数据，每页显示${limit}条，查询关键字为${keyword || '空'}`)
+// }
+
+const getDatas = ({ page = 1, limit = 10, keyword = '' } = {}) => {
+  console.log(`获取第${page}页的数据，每页显示${limit}条，查询关键字为${keyword || '空'}`)
+}
+
 
 getDatas(); // 输出：获取第1页的数据，每页显示10条，查询关键字为空
 
