@@ -2,6 +2,16 @@
  * 函数防抖：让某个函数的执行推迟，如果在推迟期间执行函数，会将函数进一步推迟
  */
 
+const debounce = (fn, duration) => {
+  let timeId;
+  return (...args) => {
+    clearTimeout(timeId);
+    timeId = setTimeout(() => {
+      fn(...args);
+    }, duration);
+  }
+}
+
 // 根据下面的调用方式，编写debounce函数
 
 const fn = (a, b) => {

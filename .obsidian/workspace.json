@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 ES6+/ES语言提升.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24c5c2d40ed476b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 JavaScript/练习题/JavaScript练习题汇总.md",
+                "file": "04 ES6+/Promise.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 ES6+/ES语言提升.md"
+                "file": "04 ES6+/Promise.md"
               }
             }
           },
@@ -107,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 ES6+/ES语言提升.md",
+                "file": "04 ES6+/Promise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 ES6+/ES语言提升.md",
+                "file": "04 ES6+/Promise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 ES6+/ES语言提升.md",
+                "file": "04 ES6+/Promise.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,21 +182,26 @@
   },
   "active": "b00ae8c0e591467a",
   "lastOpenFiles": [
-    "04 ES6+/练习题/01 零碎的改动/p3.html",
-    "04 ES6+/练习题/01 零碎的改动/p2.html",
-    "04 ES6+/练习题/01 零碎的改动/p1.js",
-    "04 ES6+/练习题/01 零碎的改动/练习题/p3.html",
-    "04 ES6+/练习题/01 零碎的改动/练习题/p2.html",
-    "04 ES6+/练习题/01 零碎的改动/练习题/p1.js",
-    "04 ES6+/练习题/01 零碎的改动/练习题",
-    "04 ES6+/练习题/01 零碎的改动",
-    "04 ES6+/练习题/新建文件夹",
-    "02 JavaScript/正则表达式.md",
     "02 JavaScript/练习题/JavaScript练习题汇总.md",
-    "04 ES6+/练习题",
-    "02 JavaScript/标准库.md",
+    "04 ES6+/Promise.md",
+    "04 ES6+/Promise的链式调用.md",
     "04 ES6+/ES语言提升.md",
-    "04 ES6+",
+    "04 ES6+/笔记.md",
+    "04 ES6+/练习题/07 Promise的链式调用",
+    "04 ES6+/练习题/新建文件夹",
+    "04 ES6+/练习题/06 Promise基础/p4.js",
+    "04 ES6+/练习题/06 Promise基础/p3.html",
+    "04 ES6+/练习题/06 Promise基础/p2.html",
+    "04 ES6+/练习题/06 Promise基础/p1.js",
+    "04 ES6+/练习题/06 Promise基础",
+    "04 ES6+/练习题/06 Promise/p4.js",
+    "04 ES6+/练习题/06 Promise/p3.html",
+    "04 ES6+/练习题/06 Promise/p2.html",
+    "浏览器/事件循环.md",
+    "浏览器/浏览器渲染原理.md",
+    "02 JavaScript/技巧.md",
+    "02 JavaScript/正则表达式.md",
+    "02 JavaScript/标准库.md",
     "03 HTML5+CSS3/CSS3手册.md",
     "JS案例/购物车效果/购物车效果!.md",
     "ChatGPT Prompt Practice Spoken Englis.md",
@@ -224,17 +217,11 @@
     "02 JavaScript/异常.md",
     "02 JavaScript/原型.md",
     "02 JavaScript/原型链.md",
-    "02 JavaScript/技巧.md",
     "02 JavaScript/练习题/正则表达式表单验证/正则表达式表单验证.md",
     "01 HTML+CSS/包含块.md",
     "01 HTML+CSS/其他知识点.md",
     "03 JavaScript/正则表达式.md",
     "HTML+CSS案例/表单进阶.md",
-    "03 JavaScript/练习题/正则表达式表单验证/正则表达式表单验证.md",
-    "03 JavaScript/练习题/正则表达式文章段落匹配/正则表达式文章段落匹配.md",
-    "03 JavaScript/练习题/JavaScript练习题汇总.md",
-    "JS案例/歌词滚动效果.md",
-    "JS案例/购物车效果!.md",
     "Pasted image 20240511095906.png",
     "Pasted image 20240511102538.png"
   ]
