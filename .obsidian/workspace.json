@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1784a754e0cc5557",
+        "id": "f34a831493f423a7",
         "type": "tabs",
         "children": [
           {
-            "id": "b00ae8c0e591467a",
+            "id": "53f5381c7d06c4a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 ES6+/Promise.md",
+                "file": "11 工程化/模块化手册.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 ES6+/Promise.md"
+                "file": "11 工程化/模块化手册.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 ES6+/Promise.md",
+                "file": "11 工程化/模块化手册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 ES6+/Promise.md",
+                "file": "11 工程化/模块化手册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 ES6+/Promise.md",
+                "file": "11 工程化/模块化手册.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,35 +168,48 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 328.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "b00ae8c0e591467a",
+  "active": "53f5381c7d06c4a9",
   "lastOpenFiles": [
-    "02 JavaScript/练习题/JavaScript练习题汇总.md",
-    "04 ES6+/Promise.md",
-    "04 ES6+/Promise的链式调用.md",
+    "11 工程化/练习题/02 ES Module/综合练习/js/doms.js",
+    "11 工程化/练习题/02 ES Module/综合练习/js/api/user.js",
+    "11 工程化/练习题/02 ES Module/综合练习/js/api",
+    "11 工程化/练习题/02 ES Module/综合练习/js/main.js",
+    "11 工程化/练习题/02 ES Module/综合练习/js",
+    "11 工程化/练习题/02 ES Module/综合练习/img/user.png",
+    "11 工程化/练习题/02 ES Module/综合练习/img/password.png",
+    "11 工程化/练习题/02 ES Module/综合练习/css/index.css",
+    "11 工程化/练习题/02 ES Module/综合练习/index.html",
+    "11 工程化/练习题/02 ES Module/综合练习/img",
+    "11 工程化/练习题/02 ES Module/综合练习/css",
+    "11 工程化/练习题/02 ES Module/综合练习",
+    "11 工程化/练习题/02 ES Module/综合练习素材/img/user.png",
+    "11 工程化/练习题/02 ES Module/综合练习素材/img/password.png",
+    "11 工程化/练习题/02 ES Module/综合练习素材/css/index.css",
     "04 ES6+/ES语言提升.md",
+    "11 工程化/模块化手册.md",
+    "11 工程化/01 CommonJS/CommonJS.md",
+    "11 工程化/CommonJS.md",
+    "11 工程化/02 ES Module/模块化手册.md",
+    "02 JavaScript/异常.md",
+    "11 工程化/01 CommonJS/课堂笔记.md",
+    "02 JavaScript/继承.md",
+    "04 ES6+/Promise.md",
+    "02 JavaScript/练习题/JavaScript练习题汇总.md",
+    "04 ES6+/Promise的链式调用.md",
     "04 ES6+/笔记.md",
-    "04 ES6+/练习题/07 Promise的链式调用",
-    "04 ES6+/练习题/新建文件夹",
-    "04 ES6+/练习题/06 Promise基础/p4.js",
-    "04 ES6+/练习题/06 Promise基础/p3.html",
-    "04 ES6+/练习题/06 Promise基础/p2.html",
-    "04 ES6+/练习题/06 Promise基础/p1.js",
-    "04 ES6+/练习题/06 Promise基础",
-    "04 ES6+/练习题/06 Promise/p4.js",
-    "04 ES6+/练习题/06 Promise/p3.html",
-    "04 ES6+/练习题/06 Promise/p2.html",
     "浏览器/事件循环.md",
     "浏览器/浏览器渲染原理.md",
     "02 JavaScript/技巧.md",
@@ -214,15 +227,7 @@
     "JS案例/购物车效果/assets/g1.png",
     "02 JavaScript/练习题/正则表达式文章段落匹配/正则表达式文章段落匹配.md",
     "02 JavaScript/WebAPI.md",
-    "02 JavaScript/异常.md",
     "02 JavaScript/原型.md",
-    "02 JavaScript/原型链.md",
-    "02 JavaScript/练习题/正则表达式表单验证/正则表达式表单验证.md",
-    "01 HTML+CSS/包含块.md",
-    "01 HTML+CSS/其他知识点.md",
-    "03 JavaScript/正则表达式.md",
-    "HTML+CSS案例/表单进阶.md",
-    "Pasted image 20240511095906.png",
-    "Pasted image 20240511102538.png"
+    "Pasted image 20240511095906.png"
   ]
 }
