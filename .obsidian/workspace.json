@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 工程化/模块化手册.md",
+                "file": "11 工程化/05 构建工具的使用.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 234.5
   },
   "right": {
     "id": "0bbb972a0c689dab",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11 工程化/模块化手册.md"
+                "file": "11 工程化/05 构建工具的使用.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 工程化/模块化手册.md",
+                "file": "11 工程化/05 构建工具的使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11 工程化/模块化手册.md",
+                "file": "11 工程化/05 构建工具的使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "11 工程化/模块化手册.md",
+                "file": "11 工程化/05 构建工具的使用.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5,
-    "collapsed": true
+    "width": 248.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,25 +182,40 @@
   },
   "active": "53f5381c7d06c4a9",
   "lastOpenFiles": [
-    "11 工程化/练习题/02 ES Module/综合练习/js/doms.js",
-    "11 工程化/练习题/02 ES Module/综合练习/js/api/user.js",
-    "11 工程化/练习题/02 ES Module/综合练习/js/api",
-    "11 工程化/练习题/02 ES Module/综合练习/js/main.js",
-    "11 工程化/练习题/02 ES Module/综合练习/js",
+    "11 工程化/04 css工程化.md",
+    "11 工程化/05 构建工具的使用.md",
+    "11 工程化/练习题/05 构建工具的使用",
+    "11 工程化/练习题/05. 构建工具的使用",
+    "11 工程化/练习题/新建文件夹",
+    "11 工程化/练习题/04 Less/练习题2/index.css",
+    "11 工程化/练习题/04 Less/练习题2/index.less",
+    "11 工程化/练习题/04 Less/练习题2/英雄对象属性.md",
+    "11 工程化/练习题/04 Less/练习题2/search_icon.png",
+    "11 工程化/练习题/04 Less/练习题2/index.js",
+    "11 工程化/练习题/04 Less/练习题2/index.html",
+    "11 工程化/练习题/04 Less/练习题2",
+    "11 工程化/练习题/04 Less/hero/英雄对象属性.md",
+    "11 工程化/练习题/04 Less/hero/search_icon.png",
+    "11 工程化/练习题/04 Less/hero/index.less",
+    "11 工程化/练习题/04 Less/hero/index.js",
+    "11 工程化/练习题/04 Less/node_modules/errno/README.md",
+    "11 工程化/练习题/04 Less/node_modules/less/test/README.md",
+    "11 工程化/练习题/04 Less/node_modules/prr/LICENSE.md",
+    "11 工程化/练习题/04 Less/node_modules/make-dir/readme.md",
+    "11 工程化/练习题/04 Less/node_modules/source-map/README.md",
+    "11 工程化/03 npm文档.md",
+    "11 工程化/练习题/03 包管理器/练习题.md",
+    "11 工程化/02 模块化手册.md",
+    "11 工程化/练习题/02 ES Module/练习题.md",
+    "11 工程化/07 安装 nvm.md",
+    "11 工程化/Mac系统下安装nvm.md",
+    "11 工程化/01 CommonJS.md",
     "11 工程化/练习题/02 ES Module/综合练习/img/user.png",
     "11 工程化/练习题/02 ES Module/综合练习/img/password.png",
-    "11 工程化/练习题/02 ES Module/综合练习/css/index.css",
-    "11 工程化/练习题/02 ES Module/综合练习/index.html",
-    "11 工程化/练习题/02 ES Module/综合练习/img",
-    "11 工程化/练习题/02 ES Module/综合练习/css",
-    "11 工程化/练习题/02 ES Module/综合练习",
     "11 工程化/练习题/02 ES Module/综合练习素材/img/user.png",
     "11 工程化/练习题/02 ES Module/综合练习素材/img/password.png",
-    "11 工程化/练习题/02 ES Module/综合练习素材/css/index.css",
     "04 ES6+/ES语言提升.md",
-    "11 工程化/模块化手册.md",
     "11 工程化/01 CommonJS/CommonJS.md",
-    "11 工程化/CommonJS.md",
     "11 工程化/02 ES Module/模块化手册.md",
     "02 JavaScript/异常.md",
     "11 工程化/01 CommonJS/课堂笔记.md",
@@ -210,24 +224,9 @@
     "02 JavaScript/练习题/JavaScript练习题汇总.md",
     "04 ES6+/Promise的链式调用.md",
     "04 ES6+/笔记.md",
-    "浏览器/事件循环.md",
-    "浏览器/浏览器渲染原理.md",
-    "02 JavaScript/技巧.md",
-    "02 JavaScript/正则表达式.md",
-    "02 JavaScript/标准库.md",
-    "03 HTML5+CSS3/CSS3手册.md",
-    "JS案例/购物车效果/购物车效果!.md",
-    "ChatGPT Prompt Practice Spoken Englis.md",
-    "02 JavaScript/this.md",
-    "JS案例/歌词滚动效果/歌词滚动效果.md",
     "JS案例/购物车效果/assets/g5.png",
     "JS案例/购物车效果/assets/g4.png",
     "JS案例/购物车效果/assets/g3.png",
-    "JS案例/购物车效果/assets/g2.png",
-    "JS案例/购物车效果/assets/g1.png",
-    "02 JavaScript/练习题/正则表达式文章段落匹配/正则表达式文章段落匹配.md",
-    "02 JavaScript/WebAPI.md",
-    "02 JavaScript/原型.md",
-    "Pasted image 20240511095906.png"
+    "JS案例/购物车效果/assets/g2.png"
   ]
 }

@@ -1,0 +1,17 @@
+{
+  "name": "04-less",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "c": "lessc index.less index.css",
+    "test1": "lessc 练习题1.less 练习题1.css",
+    "test2": "lessc ./练习题2/index.less ./练习题2/index.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "less": "^4.2.0"
+  }
+}
