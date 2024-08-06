@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 工程化/05 构建工具的使用.md",
-                "mode": "source",
+                "file": "03 HTML5+CSS3/HTML5手册.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pause()",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 394.5
   },
   "right": {
     "id": "0bbb972a0c689dab",
@@ -85,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11 工程化/05 构建工具的使用.md"
+                "file": "03 HTML5+CSS3/HTML5手册.md"
               }
             }
           },
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 工程化/05 构建工具的使用.md",
+                "file": "03 HTML5+CSS3/HTML5手册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11 工程化/05 构建工具的使用.md",
+                "file": "03 HTML5+CSS3/HTML5手册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "11 工程化/05 构建工具的使用.md",
+                "file": "03 HTML5+CSS3/HTML5手册.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -182,51 +183,51 @@
   },
   "active": "53f5381c7d06c4a9",
   "lastOpenFiles": [
-    "11 工程化/04 css工程化.md",
-    "11 工程化/05 构建工具的使用.md",
-    "11 工程化/练习题/05 构建工具的使用",
-    "11 工程化/练习题/05. 构建工具的使用",
-    "11 工程化/练习题/新建文件夹",
-    "11 工程化/练习题/04 Less/练习题2/index.css",
-    "11 工程化/练习题/04 Less/练习题2/index.less",
-    "11 工程化/练习题/04 Less/练习题2/英雄对象属性.md",
-    "11 工程化/练习题/04 Less/练习题2/search_icon.png",
-    "11 工程化/练习题/04 Less/练习题2/index.js",
-    "11 工程化/练习题/04 Less/练习题2/index.html",
-    "11 工程化/练习题/04 Less/练习题2",
-    "11 工程化/练习题/04 Less/hero/英雄对象属性.md",
-    "11 工程化/练习题/04 Less/hero/search_icon.png",
-    "11 工程化/练习题/04 Less/hero/index.less",
-    "11 工程化/练习题/04 Less/hero/index.js",
-    "11 工程化/练习题/04 Less/node_modules/errno/README.md",
-    "11 工程化/练习题/04 Less/node_modules/less/test/README.md",
-    "11 工程化/练习题/04 Less/node_modules/prr/LICENSE.md",
-    "11 工程化/练习题/04 Less/node_modules/make-dir/readme.md",
-    "11 工程化/练习题/04 Less/node_modules/source-map/README.md",
-    "11 工程化/03 npm文档.md",
-    "11 工程化/练习题/03 包管理器/练习题.md",
-    "11 工程化/02 模块化手册.md",
-    "11 工程化/练习题/02 ES Module/练习题.md",
-    "11 工程化/07 安装 nvm.md",
-    "11 工程化/Mac系统下安装nvm.md",
-    "11 工程化/01 CommonJS.md",
-    "11 工程化/练习题/02 ES Module/综合练习/img/user.png",
-    "11 工程化/练习题/02 ES Module/综合练习/img/password.png",
-    "11 工程化/练习题/02 ES Module/综合练习素材/img/user.png",
-    "11 工程化/练习题/02 ES Module/综合练习素材/img/password.png",
-    "04 ES6+/ES语言提升.md",
-    "11 工程化/01 CommonJS/CommonJS.md",
-    "11 工程化/02 ES Module/模块化手册.md",
-    "02 JavaScript/异常.md",
-    "11 工程化/01 CommonJS/课堂笔记.md",
-    "02 JavaScript/继承.md",
-    "04 ES6+/Promise.md",
-    "02 JavaScript/练习题/JavaScript练习题汇总.md",
-    "04 ES6+/Promise的链式调用.md",
-    "04 ES6+/笔记.md",
-    "JS案例/购物车效果/assets/g5.png",
-    "JS案例/购物车效果/assets/g4.png",
-    "JS案例/购物车效果/assets/g3.png",
-    "JS案例/购物车效果/assets/g2.png"
+    "02 JavaScript/WebAPI.md",
+    "03 HTML5+CSS3/CSS3手册.md",
+    "03 HTML5+CSS3/HTML5手册.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/src/common.less",
+    "11 工程化简洁版/05 构建工具Webpack的使用.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/src/assets/music.mp3",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/src/assets/movie.mp4",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/src/assets",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/url/node_modules/punycode/package.json",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/sockjs-client/package.json",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/url/package.json",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/webpack-dev-server/package.json",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/webpack-cli/package.json",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/webpack/package.json",
+    "11 工程化简洁版/06 分页电影列表案例.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/postcss-minify-selectors/node_modules/postcss-selector-parser/README.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/postcss-minify-selectors/node_modules/postcss-selector-parser/CHANGELOG.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/postcss-minify-selectors/node_modules/postcss-selector-parser/API.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/ws/README.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/postcss-merge-longhand/README.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/postcss-merge-longhand/CHANGELOG.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/mdn-data/README.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/is-regex/README.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/is-regex/CHANGELOG.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/is-date-object/README.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/is-date-object/CHANGELOG.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/cssnano-preset-default/README.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/cssnano-preset-default/CHANGELOG.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/cssnano/README.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/cssnano/CHANGELOG.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/big.js/README.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/big.js/CHANGELOG.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/@babel/traverse/README.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/ansi-styles/readme.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/escape-string-regexp/readme.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/chalk/readme.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/renderkid/docs/images/usage.png",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/renderkid/docs/images/display.png",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/renderkid/docs/images/bullets-1.png",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/serve-index/public/icons/page_world.png",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/serve-index/public/icons/page_word.png",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/serve-index/public/icons/page_white_wrench.png",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/serve-index/public/icons/page_white_zip.png",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/serve-index/public/icons/page_white_word.png",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/serve-index/public/icons/page_white_world.png",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/serve-index/public/icons/page_white_width.png"
   ]
 }

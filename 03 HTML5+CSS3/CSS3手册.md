@@ -157,7 +157,7 @@ grid-area: 起始行线编号/起始列线编号/结束行线编号/结束列线
 
 下面是一些示例
 
-<iframe src="http://mdrs.yuanjin.tech/html/css-manual/box-shadow.html?v=2" style="height:900px;">
+<iframe src="http://mdrs.yuanjin.tech/html/css-manual/box-shadow.html?v=2" style="height:900px;width:800px">
 
 ### 文字阴影
 
@@ -167,7 +167,7 @@ grid-area: 起始行线编号/起始列线编号/结束行线编号/结束列线
 
 下面是一些示例
 
-<iframe src="http://mdrs.yuanjin.tech/html/css-manual/text-shadow.html?v=3" style="height:500px;">
+<iframe src="http://mdrs.yuanjin.tech/html/css-manual/text-shadow.html?v=3" style="height:500px;width:800px">
 
 ## 圆角
 
@@ -185,7 +185,7 @@ border-radius: 50%; /* 同时设置4个角的圆角，圆的横向半径为宽�
 border-radius: 10px 20px 30px 40px; /* 分别设置左上、右上、右下、左下的圆角 */
 ```
 
-<iframe src="http://mdrs.yuanjin.tech/html/css-manual/border-raduis.html?v=5" style="height:550px;">
+<iframe src="http://mdrs.yuanjin.tech/html/css-manual/border-raduis.html?v=5" style="height:550px;width:600px">
 
 ## 背景渐变
 
@@ -264,7 +264,7 @@ transform-origin: 30px 60px; /* 设置原点在盒子坐标 (30, 60) 位置 */
 
 试一试，先点击设置原点的按钮来设置原点(已在图片中使用红色小点标记)，然后点击变形按钮进行变形
 
-<iframe src="http://mdrs.yuanjin.tech/html/css-manual/transform-origin.html?v2" style="height:600px;">
+<iframe src="http://mdrs.yuanjin.tech/html/css-manual/transform-origin.html?v2" style="height:600px;width:600px">
 
 ### 多种变形叠加
 

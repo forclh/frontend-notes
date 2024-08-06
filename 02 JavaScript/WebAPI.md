@@ -93,21 +93,21 @@ DOM 是一个对象，它对应到 HTML 中的节点
 
 ### 获取 dom
 
-| API                                                                 | 含义                    | 备注                                                                                                   |
-| ------------------------------------------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------ |
-| document.getElementById()                                           | 根据元素 id 获取 dom    | 得到单个 dom                                                                                           |
-| document.getElementsByTagName()<br />dom.getElementsByTagName()     | 根据元素名称获取 dom    | 得到 dom 的伪数组                                                                                      |
-| document.getElementsByClassName()<br />dom.getElementsByClassName() | 根据元素类样式获取 dom  | 得到 dom 的伪数组                                                                                      |
-| ==document.querySelector()==<br />==dom.querySelector()==           | 根据 CSS 选择器获取 dom | 得到第一个匹配的 dom                                                                                   |
-| ==document.querySelectorAll()==<br />==dom.querySelectorAll()==     | 根据 CSS 选择器获取 dom | 得到所有匹配的 dom<br />伪数组                                                                         |
-| ==document.documentElement==                                        | 获取 html 元素          |                                                                                                        |
-| document.body                                                       | 获取 body               |                                                                                                        |
-| document.head                                                       | 获取 head               |                                                                                                        |
-| ==dom.children==                                                    | 获取 dom 的子元素       | 得到 dom 的伪数组                                                                                      |
-| dom.childNodes                                                      | 获取 dom 的子节点       | 得到 dom 节点的伪数组<br />关于节点对象点[这里](https://developer.mozilla.org/zh-CN/docs/Web/API/Node) |
-| dom.previousElementSibling                                          | 得到 dom 前一个兄弟元素 |                                                                                                        |
-| dom.nextElementSibling                                              | 得到 dom 后一个兄弟元素 |                                                                                                        |
-| ==dom.parentElement==                                               | 得到 dom 的父元素       |                                                                                                        |
+| API                                                                 | 含义               | 备注                                                                                    |
+| ------------------------------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------- |
+| document.getElementById()                                           | 根据元素 id 获取 dom   | 得到单个 dom                                                                              |
+| document.getElementsByTagName()<br />dom.getElementsByTagName()     | 根据元素名称获取 dom     | 得到 dom 的伪数组                                                                           |
+| document.getElementsByClassName()<br />dom.getElementsByClassName() | 根据元素类样式获取 dom    | 得到 dom 的伪数组                                                                           |
+| ==document.querySelector()==<br />==dom.querySelector()==           | 根据 CSS 选择器获取 dom | 得到第一个匹配的 dom                                                                          |
+| ==document.querySelectorAll()==<br />==dom.querySelectorAll()==     | 根据 CSS 选择器获取 dom | 得到所有匹配的 dom<br />伪数组                                                                  |
+| ==document.documentElement==                                        | 获取 html 元素       |                                                                                       |
+| document.body                                                       | 获取 body          |                                                                                       |
+| document.head                                                       | 获取 head          |                                                                                       |
+| ==dom.children==                                                    | 获取 dom 的子元素      | 得到 dom 的伪数组                                                                           |
+| dom.childNodes                                                      | 获取 dom 的子节点      | 得到 dom 节点的伪数组<br />关于节点对象点[这里](https://developer.mozilla.org/zh-CN/docs/Web/API/Node) |
+| dom.previousElementSibling                                          | 得到 dom 前一个兄弟元素   |                                                                                       |
+| dom.nextElementSibling                                              | 得到 dom 后一个兄弟元素   |                                                                                       |
+| ==dom.parentElement==                                               | 得到 dom 的父元素      |                                                                                       |
 
 ### 创建 dom
 
