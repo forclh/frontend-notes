@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 HTML5+CSS3/HTML5手册.md",
+                "file": "12 Vue入门到实战/01 前端框架的由来.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pause()",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 394.5
+    "width": 394.5,
+    "collapsed": true
   },
   "right": {
     "id": "0bbb972a0c689dab",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 HTML5+CSS3/HTML5手册.md"
+                "file": "12 Vue入门到实战/01 前端框架的由来.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 HTML5+CSS3/HTML5手册.md",
+                "file": "12 Vue入门到实战/01 前端框架的由来.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 HTML5+CSS3/HTML5手册.md",
+                "file": "12 Vue入门到实战/01 前端框架的由来.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 HTML5+CSS3/HTML5手册.md",
+                "file": "12 Vue入门到实战/01 前端框架的由来.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,42 +183,42 @@
   },
   "active": "53f5381c7d06c4a9",
   "lastOpenFiles": [
-    "02 JavaScript/WebAPI.md",
+    "12 Vue入门到实战/练习题/02 第一个vue应用/index.html",
+    "12 Vue入门到实战/练习题/02 第一个vue应用/vue.min.js",
+    "12 Vue入门到实战/练习题/02 第一个vue应用",
+    "12 Vue入门到实战/练习题/新建文件夹",
+    "10 第三方库/常用第三方工具库.md",
     "03 HTML5+CSS3/CSS3手册.md",
-    "03 HTML5+CSS3/HTML5手册.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/src/common.less",
-    "11 工程化简洁版/05 构建工具Webpack的使用.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/src/assets/music.mp3",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/src/assets/movie.mp4",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/src/assets",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/url/node_modules/punycode/package.json",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/sockjs-client/package.json",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/url/package.json",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/webpack-dev-server/package.json",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/webpack-cli/package.json",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/webpack/package.json",
+    "12 Vue入门到实战/01 前端框架的由来.md",
+    "12 Vue入门到实战/笔记.md",
+    "12 Vue入门到实战/练习题",
+    "12 Vue入门到实战/新建文件夹",
+    "12 Vue入门到实战",
+    "新建文件夹",
     "11 工程化简洁版/06 分页电影列表案例.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/postcss-minify-selectors/node_modules/postcss-selector-parser/README.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/postcss-minify-selectors/node_modules/postcss-selector-parser/CHANGELOG.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/postcss-minify-selectors/node_modules/postcss-selector-parser/API.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/ws/README.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/postcss-merge-longhand/README.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/postcss-merge-longhand/CHANGELOG.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/mdn-data/README.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/is-regex/README.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/is-regex/CHANGELOG.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/is-date-object/README.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/is-date-object/CHANGELOG.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/cssnano-preset-default/README.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/cssnano-preset-default/CHANGELOG.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/cssnano/README.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/cssnano/CHANGELOG.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/big.js/README.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/big.js/CHANGELOG.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/@babel/traverse/README.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/ansi-styles/readme.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/escape-string-regexp/readme.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/chalk/readme.md",
+    "10 第三方库",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/src/movie/pager/index.module.less",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/src/movie/pager/index.js",
+    "03 HTML5+CSS3/HTML5手册.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/@babel/plugin-syntax-top-level-await/README.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/@babel/plugin-transform-typeof-symbol/README.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/@babel/plugin-transform-unicode-regex/README.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/@babel/plugin-transform-unicode-escapes/README.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/@babel/plugin-transform-sticky-regex/README.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/@babel/plugin-transform-for-of/README.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/@babel/plugin-transform-classes/README.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/@babel/plugin-transform-literals/README.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/@babel/plugin-transform-template-literals/README.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/@babel/plugin-transform-exponentiation-operator/README.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/@babel/helper-split-export-declaration/README.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/util-deprecate/README.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/util-deprecate/History.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/use/README.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/axios/lib/core/README.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/axios/lib/helpers/README.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/axios/lib/env/README.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/axios/lib/adapters/README.md",
+    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/asynckit/README.md",
     "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/renderkid/docs/images/usage.png",
     "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/renderkid/docs/images/display.png",
     "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/renderkid/docs/images/bullets-1.png",
