@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12 Vue入门到实战/01 前端框架的由来.md",
+                "file": "12 Vue入门到实战/03 核心概念.md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12 Vue入门到实战/01 前端框架的由来.md"
+                "file": "12 Vue入门到实战/03 核心概念.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12 Vue入门到实战/01 前端框架的由来.md",
+                "file": "12 Vue入门到实战/03 核心概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12 Vue入门到实战/01 前端框架的由来.md",
+                "file": "12 Vue入门到实战/03 核心概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "12 Vue入门到实战/01 前端框架的由来.md",
+                "file": "12 Vue入门到实战/03 核心概念.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,22 +183,23 @@
   },
   "active": "53f5381c7d06c4a9",
   "lastOpenFiles": [
-    "12 Vue入门到实战/练习题/02 第一个vue应用/index.html",
-    "12 Vue入门到实战/练习题/02 第一个vue应用/vue.min.js",
-    "12 Vue入门到实战/练习题/02 第一个vue应用",
-    "12 Vue入门到实战/练习题/新建文件夹",
+    "12 Vue入门到实战/课堂代码/03 核心概念/v-bind.html",
+    "12 Vue入门到实战/课堂代码/03 核心概念/lastClass.html",
+    "12 Vue入门到实战/课堂代码/03 核心概念/index.html",
+    "12 Vue入门到实战/课堂代码/03 核心概念/vue.min.js",
+    "12 Vue入门到实战/课堂代码/03 核心概念",
+    "12 Vue入门到实战/课堂代码/新建文件夹",
+    "12 Vue入门到实战/01 前端框架的由来.md",
+    "12 Vue入门到实战/课堂代码/02 第一个vue应用/vue.min.js",
+    "12 Vue入门到实战/课堂代码/02 第一个vue应用/index.html",
+    "12 Vue入门到实战/课堂代码/02 第一个vue应用",
+    "12 Vue入门到实战/课堂代码",
+    "12 Vue入门到实战/新建文件夹",
+    "12 Vue入门到实战/03 核心概念.md",
+    "12 Vue入门到实战/笔记.md",
     "10 第三方库/常用第三方工具库.md",
     "03 HTML5+CSS3/CSS3手册.md",
-    "12 Vue入门到实战/01 前端框架的由来.md",
-    "12 Vue入门到实战/笔记.md",
-    "12 Vue入门到实战/练习题",
-    "12 Vue入门到实战/新建文件夹",
-    "12 Vue入门到实战",
-    "新建文件夹",
     "11 工程化简洁版/06 分页电影列表案例.md",
-    "10 第三方库",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/src/movie/pager/index.module.less",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/src/movie/pager/index.js",
     "03 HTML5+CSS3/HTML5手册.md",
     "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/@babel/plugin-syntax-top-level-await/README.md",
     "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/@babel/plugin-transform-typeof-symbol/README.md",
@@ -218,7 +219,6 @@
     "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/axios/lib/helpers/README.md",
     "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/axios/lib/env/README.md",
     "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/axios/lib/adapters/README.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/asynckit/README.md",
     "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/renderkid/docs/images/usage.png",
     "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/renderkid/docs/images/display.png",
     "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/renderkid/docs/images/bullets-1.png",
