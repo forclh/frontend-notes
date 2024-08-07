@@ -14,12 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "12 Vue入门到实战/03 核心概念.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a269f42de2b2ab4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12 Vue入门到实战/04 组件.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12 Vue入门到实战/03 核心概念.md"
+                "file": "12 Vue入门到实战/04 组件.md"
               }
             }
           },
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12 Vue入门到实战/03 核心概念.md",
+                "file": "12 Vue入门到实战/04 组件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12 Vue入门到实战/03 核心概念.md",
+                "file": "12 Vue入门到实战/04 组件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "12 Vue入门到实战/03 核心概念.md",
+                "file": "12 Vue入门到实战/04 组件.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -181,22 +194,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53f5381c7d06c4a9",
+  "active": "3a269f42de2b2ab4",
   "lastOpenFiles": [
-    "12 Vue入门到实战/课堂代码/03 核心概念/v-bind.html",
-    "12 Vue入门到实战/课堂代码/03 核心概念/lastClass.html",
-    "12 Vue入门到实战/课堂代码/03 核心概念/index.html",
-    "12 Vue入门到实战/课堂代码/03 核心概念/vue.min.js",
-    "12 Vue入门到实战/课堂代码/03 核心概念",
-    "12 Vue入门到实战/课堂代码/新建文件夹",
-    "12 Vue入门到实战/01 前端框架的由来.md",
-    "12 Vue入门到实战/课堂代码/02 第一个vue应用/vue.min.js",
-    "12 Vue入门到实战/课堂代码/02 第一个vue应用/index.html",
-    "12 Vue入门到实战/课堂代码/02 第一个vue应用",
-    "12 Vue入门到实战/课堂代码",
-    "12 Vue入门到实战/新建文件夹",
+    "12 Vue入门到实战/课堂代码/04 组件/src/components/MyButton.js",
+    "12 Vue入门到实战/课堂代码/04 组件/src/components",
+    "12 Vue入门到实战/课堂代码/04 组件/src/App.js",
+    "12 Vue入门到实战/课堂代码/04 组件/src/vue.browser.js",
+    "12 Vue入门到实战/课堂代码/04 组件/src/main.js",
     "12 Vue入门到实战/03 核心概念.md",
+    "12 Vue入门到实战/04 组件.md",
     "12 Vue入门到实战/笔记.md",
+    "12 Vue入门到实战/课堂代码/04 组件/vue.min.js",
+    "12 Vue入门到实战/课堂代码/04 组件/src",
+    "12 Vue入门到实战/课堂代码/04 组件/index.html",
+    "12 Vue入门到实战/课堂代码/04 组件/index.1.html",
+    "12 Vue入门到实战/课堂代码/04 组件",
+    "12 Vue入门到实战/课堂代码/04. 组件/课件/笔记.md",
+    "12 Vue入门到实战/01 前端框架的由来.md",
     "10 第三方库/常用第三方工具库.md",
     "03 HTML5+CSS3/CSS3手册.md",
     "11 工程化简洁版/06 分页电影列表案例.md",
@@ -217,8 +231,6 @@
     "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/use/README.md",
     "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/axios/lib/core/README.md",
     "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/axios/lib/helpers/README.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/axios/lib/env/README.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/axios/lib/adapters/README.md",
     "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/renderkid/docs/images/usage.png",
     "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/renderkid/docs/images/display.png",
     "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/renderkid/docs/images/bullets-1.png",

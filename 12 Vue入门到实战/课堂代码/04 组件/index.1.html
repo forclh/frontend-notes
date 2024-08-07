@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Document</title>
+</head>
+
+<body>
+  <div id="app"></div>
+  <script src="./vue.min.js"></script>
+  <script>
+    const MyButton = {
+      data() {
+        // 使用函数返回使得服用组件时各个组件的独立
+        return {
+          count: 0
+        }
+      },
+      template: '<button @click="count++">当前点击了{{count}}次</button>'
+    }
+    // 全局注册了一个组件
+    // Vue.component("MyButton", MyButton);
+    const Title = {
+      props: ["biaoti1", "biaoti2"],
+      template: '<div><h1>{{biaoti1}}</h1><h2>{{biaoti2}}</h2></div>',
+    }
+
+    const vm = new Vue({
+      // 局部注册组件，在当前模板中使用
+      components: {
+        MyButton,
+        Title
+      },
+      template: `<div>
+        <MyButton />
+        <MyButton />
+        <MyButton />
+        <Title biaoti1="标题1" biaoti2="标题1-1" />
+        <Title biaoti1="标题2" biaoti2="标题2-1"/>
+        </div>`,
+    });
+
+    vm.$mount("#app");
+  </script>
+</body>
+
+</html>
