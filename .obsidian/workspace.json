@@ -30,9 +30,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "65d73730a9492689",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12 Vue入门到实战/05 搭建工程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12 Vue入门到实战/04 组件.md"
+                "file": "12 Vue入门到实战/03 核心概念.md"
               }
             }
           },
@@ -109,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12 Vue入门到实战/04 组件.md",
+                "file": "12 Vue入门到实战/03 核心概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12 Vue入门到实战/04 组件.md",
+                "file": "12 Vue入门到实战/03 核心概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "12 Vue入门到实战/04 组件.md",
+                "file": "12 Vue入门到实战/03 核心概念.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,52 +205,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a269f42de2b2ab4",
+  "active": "53f5381c7d06c4a9",
   "lastOpenFiles": [
-    "12 Vue入门到实战/课堂代码/04 组件/src/components/MyButton.js",
-    "12 Vue入门到实战/课堂代码/04 组件/src/components",
-    "12 Vue入门到实战/课堂代码/04 组件/src/App.js",
-    "12 Vue入门到实战/课堂代码/04 组件/src/vue.browser.js",
-    "12 Vue入门到实战/课堂代码/04 组件/src/main.js",
-    "12 Vue入门到实战/03 核心概念.md",
     "12 Vue入门到实战/04 组件.md",
-    "12 Vue入门到实战/笔记.md",
-    "12 Vue入门到实战/课堂代码/04 组件/vue.min.js",
-    "12 Vue入门到实战/课堂代码/04 组件/src",
-    "12 Vue入门到实战/课堂代码/04 组件/index.html",
-    "12 Vue入门到实战/课堂代码/04 组件/index.1.html",
-    "12 Vue入门到实战/课堂代码/04 组件",
-    "12 Vue入门到实战/课堂代码/04. 组件/课件/笔记.md",
-    "12 Vue入门到实战/01 前端框架的由来.md",
-    "10 第三方库/常用第三方工具库.md",
-    "03 HTML5+CSS3/CSS3手册.md",
-    "11 工程化简洁版/06 分页电影列表案例.md",
-    "03 HTML5+CSS3/HTML5手册.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/@babel/plugin-syntax-top-level-await/README.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/@babel/plugin-transform-typeof-symbol/README.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/@babel/plugin-transform-unicode-regex/README.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/@babel/plugin-transform-unicode-escapes/README.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/@babel/plugin-transform-sticky-regex/README.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/@babel/plugin-transform-for-of/README.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/@babel/plugin-transform-classes/README.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/@babel/plugin-transform-literals/README.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/@babel/plugin-transform-template-literals/README.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/@babel/plugin-transform-exponentiation-operator/README.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/@babel/helper-split-export-declaration/README.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/util-deprecate/README.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/util-deprecate/History.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/use/README.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/axios/lib/core/README.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/axios/lib/helpers/README.md",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/renderkid/docs/images/usage.png",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/renderkid/docs/images/display.png",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/renderkid/docs/images/bullets-1.png",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/serve-index/public/icons/page_world.png",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/serve-index/public/icons/page_word.png",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/serve-index/public/icons/page_white_wrench.png",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/serve-index/public/icons/page_white_zip.png",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/serve-index/public/icons/page_white_word.png",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/serve-index/public/icons/page_white_world.png",
-    "11 工程化简洁版/练习题/06 分页电影列表案例/node_modules/serve-index/public/icons/page_white_width.png"
+    "12 Vue入门到实战/05 搭建工程.md",
+    "12 Vue入门到实战/03 核心概念.md",
+    "11 工程化简洁版/03 npm文档.md",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/postcss-modules-extract-imports/src/topologicalSort.js",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/postcss-modules-extract-imports/src/index.js",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/postcss-modules-extract-imports/src",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/postcss-modules-extract-imports/README.md",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/postcss-modules-extract-imports/package.json",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/postcss-modules-extract-imports/LICENSE",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/postcss-modules-extract-imports",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/postcss-modules-values/src/index.js",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/postcss-modules-values/src",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/postcss-modules-values/README.md",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/postcss-modules-values/package.json",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/postcss-modules-values/LICENSE",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/ansi-html/README.md",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/html-entities/README.md",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/core-js/stage/README.md",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/core-js/web/README.md",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/core-js/stable/README.md",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/core-js/modules/README.md",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/core-js/internals/README.md",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/core-js/features/README.md",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/core-js/es/README.md",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/core-js/README.md",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/@babel/plugin-proposal-decorators/README.md",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/@babel/preset-env/README.md",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/@babel/preset-modules/README.md",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/@babel/plugin-transform-template-literals/README.md",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/@babel/plugin-transform-spread/README.md",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/@babel/plugin-transform-shorthand-properties/README.md",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/@babel/plugin-transform-reserved-words/README.md",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/@babel/runtime/README.md",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/@babel/plugin-transform-object-super/README.md",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/@babel/plugin-transform-new-target/README.md",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/renderkid/docs/images/usage.png",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/renderkid/docs/images/display.png",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/renderkid/docs/images/bullets-1.png",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/psl/browserstack-logo.svg",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/serve-index/public/icons/page_world.png",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/serve-index/public/icons/page_word.png",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/serve-index/public/icons/page_white_wrench.png",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/serve-index/public/icons/page_white_zip.png",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/serve-index/public/icons/page_white_world.png",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/serve-index/public/icons/page_white_word.png"
   ]
 }
