@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "53f5381c7d06c4a9",
+            "id": "9c4a5214a5f8167c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12 Vue入门到实战/03 核心概念.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a269f42de2b2ab4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "12 Vue入门到实战/04 组件.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65d73730a9492689",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "12 Vue入门到实战/05 搭建工程.md",
+                "file": "12 Vue入门到实战/07 组件事件.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.5,
-    "collapsed": true
+    "width": 394.5
   },
   "right": {
     "id": "0bbb972a0c689dab",
@@ -110,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12 Vue入门到实战/03 核心概念.md"
+                "file": "12 Vue入门到实战/07 组件事件.md"
               }
             }
           },
@@ -120,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12 Vue入门到实战/03 核心概念.md",
+                "file": "12 Vue入门到实战/07 组件事件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12 Vue入门到实战/03 核心概念.md",
+                "file": "12 Vue入门到实战/07 组件事件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "12 Vue入门到实战/03 核心概念.md",
+                "file": "12 Vue入门到实战/07 组件事件.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -205,53 +180,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53f5381c7d06c4a9",
+  "active": "9c4a5214a5f8167c",
   "lastOpenFiles": [
-    "12 Vue入门到实战/04 组件.md",
-    "12 Vue入门到实战/05 搭建工程.md",
-    "12 Vue入门到实战/03 核心概念.md",
-    "11 工程化简洁版/03 npm文档.md",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/postcss-modules-extract-imports/src/topologicalSort.js",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/postcss-modules-extract-imports/src/index.js",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/postcss-modules-extract-imports/src",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/postcss-modules-extract-imports/README.md",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/postcss-modules-extract-imports/package.json",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/postcss-modules-extract-imports/LICENSE",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/postcss-modules-extract-imports",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/postcss-modules-values/src/index.js",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/postcss-modules-values/src",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/postcss-modules-values/README.md",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/postcss-modules-values/package.json",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/postcss-modules-values/LICENSE",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/ansi-html/README.md",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/html-entities/README.md",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/core-js/stage/README.md",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/core-js/web/README.md",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/core-js/stable/README.md",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/core-js/modules/README.md",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/core-js/internals/README.md",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/core-js/features/README.md",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/core-js/es/README.md",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/core-js/README.md",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/@babel/plugin-proposal-decorators/README.md",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/@babel/preset-env/README.md",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/@babel/preset-modules/README.md",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/@babel/plugin-transform-template-literals/README.md",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/@babel/plugin-transform-spread/README.md",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/@babel/plugin-transform-shorthand-properties/README.md",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/@babel/plugin-transform-reserved-words/README.md",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/@babel/runtime/README.md",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/@babel/plugin-transform-object-super/README.md",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/@babel/plugin-transform-new-target/README.md",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/renderkid/docs/images/usage.png",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/renderkid/docs/images/display.png",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/renderkid/docs/images/bullets-1.png",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/psl/browserstack-logo.svg",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/serve-index/public/icons/page_world.png",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/serve-index/public/icons/page_word.png",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/serve-index/public/icons/page_white_wrench.png",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/serve-index/public/icons/page_white_zip.png",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/serve-index/public/icons/page_white_world.png",
-    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/serve-index/public/icons/page_white_word.png"
+    "12 Vue入门到实战/作用域样式对子组件根元素的影响.jpg",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/src/styles/var.less",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/src/styles/global.less",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/src/styles",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/src/components/Pager.vue",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/preset-modules/src/plugins/transform-tagged-template-caching/index.js",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/preset-modules/src/plugins/transform-safari-for-shadowing/index.js",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/preset-modules/src/plugins/transform-safari-block-shadowing/index.js",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/preset-modules/src/plugins/transform-jsx-spread/index.js",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/preset-modules/src/plugins/transform-edge-function-name/index.js",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/preset-modules/src/plugins/transform-edge-default-parameters/index.js",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/runtime/README.md",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/preset-modules/README.md",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/preset-env/README.md",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/plugin-transform-unicode-regex/README.md",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/plugin-transform-unicode-escapes/README.md",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/plugin-transform-typeof-symbol/README.md",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/plugin-transform-template-literals/README.md",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/plugin-transform-sticky-regex/README.md",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/plugin-transform-spread/README.md",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/plugin-transform-shorthand-properties/README.md",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/plugin-transform-runtime/README.md",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/plugin-transform-regenerator/README.md",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/plugin-transform-reserved-words/README.md",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/plugin-transform-property-literals/README.md",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/plugin-transform-parameters/README.md",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/plugin-transform-object-super/README.md",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/plugin-transform-new-target/README.md",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/plugin-transform-named-capturing-groups-regex/README.md",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/plugin-transform-modules-umd/README.md",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/plugin-transform-modules-systemjs/README.md",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/plugin-transform-modules-commonjs/README.md",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/plugin-transform-modules-amd/README.md",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/plugin-transform-member-expression-literals/README.md",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/plugin-transform-literals/README.md",
+    "12 Vue入门到实战/课堂代码/07 组件事件/my-site/node_modules/@babel/plugin-transform-function-name/README.md",
+    "12 Vue入门到实战/课堂代码/06 计算属性/my-site/node_modules/renderkid/docs/images/usage.png",
+    "12 Vue入门到实战/课堂代码/06 计算属性/my-site/node_modules/renderkid/docs/images/display.png",
+    "12 Vue入门到实战/课堂代码/06 计算属性/my-site/node_modules/renderkid/docs/images/bullets-1.png",
+    "12 Vue入门到实战/课堂代码/06 计算属性/my-site/node_modules/toposort/graph.svg",
+    "12 Vue入门到实战/课堂代码/06 计算属性/my-site/node_modules/psl/browserstack-logo.svg",
+    "12 Vue入门到实战/课堂代码/06 计算属性/my-site/node_modules/@vue/cli-service/generator/template/src/assets/logo.png",
+    "12 Vue入门到实战/课堂代码/06 计算属性/my-site/node_modules/@vue/cli-service/logo.png",
+    "12 Vue入门到实战/课堂代码/06 计算属性/my-site/node_modules/@vue/cli-plugin-babel/logo.png",
+    "12 Vue入门到实战/课堂代码/05 搭建工程/my-site/node_modules/renderkid/docs/images/usage.png"
   ]
 }
